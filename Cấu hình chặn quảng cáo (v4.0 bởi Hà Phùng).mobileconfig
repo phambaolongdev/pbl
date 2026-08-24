@@ -15,7 +15,7 @@
             <key>PayloadUUID</key>
             <string>1702-VIP11</string>
             <key>PayloadDisplayName</key>
-            <string>Adblock DNS VIP01</string>
+            <string>Chặn quảng cáo PBL 01⚡</string>
             <key>DNSSettings</key>
             <dict>
                 <key>DNSProtocol</key>
@@ -45,7 +45,7 @@
             <key>PayloadUUID</key>
             <string>1702-VIP22</string>
             <key>PayloadDisplayName</key>
-            <string>Adblock DNS VIP02</string>
+            <string>Chặn Quảng Cáo PBL 02⚡</string>
             <key>DNSSettings</key>
             <dict>
                 <key>DNSProtocol</key>
@@ -75,7 +75,7 @@
             <key>PayloadUUID</key>
             <string>1702-VIP33</string>
             <key>PayloadDisplayName</key>
-            <string>Adblock DNS VIP03</string>
+            <string>Chặn Quảng Cáo PBL 03⚡</string>
             <key>DNSSettings</key>
             <dict>
                 <key>DNSProtocol</key>
@@ -96,7 +96,8 @@
 
     </array>
   <key>PayloadDescription</key>
-  <string>Adblock Edit By HaPhung (v4.0):
+  <string>⚡ PBL Developer
+  Adblock ProMax By PhamBaoLong (v1.0):
 - Chặn quảng cáo trung gian qua DNS ( 90% lượng QC dc tắt ).
 - Hỗ trợ chặn 1 phần quảng cáo trên Youtube, Facebook
 - Không bị hao pin và thiếu ổn định như kết nối như qua VPN.
@@ -105,9 +106,11 @@
 - Hỗ trợ chặn quảng cáo trên nền 3G,4G và Wifi.
 - Chặn Ads trên App và Web.</string>
 		<key>PayloadDisplayName</key>
-		<string>Adblock Edit By HaPhung(v4.0)</string>
+		<string>Adblock ProMax By PhamBaoLong(v1.0)⚡</string>
+        <key>PayloadOrganization</key>
+        <string>PBL Network🌐</string>
 		<key>PayloadIdentifier</key>
-		<string>adblock</string>
+		<string>com.pbl.tvos.beta</string>
 		<key>PayloadRemovalDisallowed</key>
 		<false />
 		<key>PayloadType</key>
