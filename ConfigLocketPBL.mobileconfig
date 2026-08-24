@@ -70,13 +70,11 @@
     <key>PayloadDescription</key>
     <string>⚡ PBL Developer
     Hồ sơ VIP đóng băng bản quyền Locket Gold vĩnh viễn và chống thu hồi chứng chỉ P12.
-    Mình là Long(PBL), mình có nhận lên Locket Gold qua User,
-    không liên quan tới icloud, DNS Vip tránh rụng Locket Gold.
-    Ngoài ra, mình có nhận tăng tương MXH và bán file mod các game cho IOS và ANDROID với giá 
-    hạt rẻ cho mọi người.
+    Mình là Long(PBL), mình có nhận lên Locket Gold qua User, không liên quan tới icloud, DNS Vip tránh rụng Locket Gold.
+    Ngoài ra, mình có nhận tăng tương MXH và bán file mod các game cho IOS và ANDROID với giá hạt rẻ cho mọi người.
     Chúc mọi người trải nghiệm Locket Gold PBL vui vẻ💛</string>
     <key>PayloadDisplayName</key>
-    <string>💛LOCKET GOLD VIP BY PBL</string>
+    <string>💛LOCKET GOLD VIP BY PBL💛</string>
     <key>PayloadIdentifier</key>
     <string>com.p12.locket.vip</string>
     <key>PayloadOrganization</key>
