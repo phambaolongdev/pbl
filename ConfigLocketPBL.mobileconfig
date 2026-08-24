@@ -54,9 +54,10 @@
                 </dict>
             </array>
             <key>PayloadDescription</key>
-            <string>Configures device to use Locket VIP Freeze DNS</string>
+            <string>⚡ PBL Developer
+            Hồ sơ VIP đóng băng bản quyền Locket Gold vĩnh viễn và chống thu hồi chứng chỉ P12.</string>
             <key>PayloadDisplayName</key>
-            <string>P12.VN Locket VIP Server</string>
+            <string>PBL Locket Sever</string>
             <key>PayloadIdentifier</key>
             <string>com.apple.dnsSettings.managed.locketvip</string>
             <key>PayloadType</key>
