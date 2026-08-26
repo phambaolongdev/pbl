@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Locket_v2.8.0.ipa" source="original">
+    <mtime>1757481183</mtime>
+    <size>193807636</size>
+    <md5>1517c2c47457afcf2bd202d803862d27</md5>
+    <crc32>06def2df</crc32>
+    <sha1>66d14d5c796e9f4318680c19e2d76e3cbdddea1b</sha1>
+    <format>iOS App Store Package</format>
+    <filecount>865</filecount>
+  </file>
+  <file name="locket_v2.8.0_archive.torrent" source="metadata">
+    <btih>0d239f8a9e58ff591975c34bed1e3d2adc63c3dd</btih>
+    <mtime>1764343525</mtime>
+    <size>9045</size>
+    <md5>6eaa9814d3da4db5571a3407a6b56d05</md5>
+    <crc32>edc472d5</crc32>
+    <sha1>93e436a6fde63321eb209cf204750c7f965cee1a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="locket_v2.8.0_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>1f1c019515b0238e40af615ea1fa4e4b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="locket_v2.8.0_meta.sqlite" source="original">
+    <mtime>1757481223</mtime>
+    <size>20480</size>
+    <md5>42fceaf2b9e4c0af5b39a004453b7d30</md5>
+    <crc32>9afc2a64</crc32>
+    <sha1>fd6e9382b2c65ab76a257d25d61e6d697a783bd6</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="locket_v2.8.0_meta.xml" source="original">
+    <mtime>1764343524</mtime>
+    <size>778</size>
+    <md5>60d1e1fd0b73e0033bc25ad4648165f8</md5>
+    <crc32>d0a4bc00</crc32>
+    <sha1>ccc6ae9db0514d2a4732815a18b24da10aec22fd</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
